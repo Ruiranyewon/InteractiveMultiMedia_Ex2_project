@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "q_history_0001",
+    "category": "history",
+    "difficulty": 1,
+    "question": "조선을 건국한 인물은?",
+    "choices": [
+      "왕건",
+      "이성계",
+      "김유신",
+      "최영"
+    ],
+    "answerIndex": 1,
+    "explanation": "이성계는 1392년 조선을 건국하고 태조가 되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0002",
+    "category": "history",
+    "difficulty": 1,
+    "question": "임진왜란이 시작된 해는?",
+    "choices": [
+      "1392년",
+      "1446년",
+      "1592년",
+      "1910년"
+    ],
+    "answerIndex": 2,
+    "explanation": "임진왜란은 임진년인 1592년에 시작되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0003",
+    "category": "history",
+    "difficulty": 1,
+    "question": "3·1 운동이 일어난 해는?",
+    "choices": [
+      "1905년",
+      "1919년",
+      "1945년",
+      "1950년"
+    ],
+    "answerIndex": 1,
+    "explanation": "3·1 운동은 1919년 3월 1일에 전국적으로 일어난 독립 만세 운동입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0004",
+    "category": "history",
+    "difficulty": 1,
+    "question": "광복절은 몇 월 며칠일까?",
+    "choices": [
+      "3월 1일",
+      "6월 25일",
+      "8월 15일",
+      "10월 3일"
+    ],
+    "answerIndex": 2,
+    "explanation": "1945년 8월 15일 광복을 기념하는 날입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0005",
+    "category": "history",
+    "difficulty": 1,
+    "question": "『삼국사기』에 따르면 고구려를 세운 인물은?",
+    "choices": [
+      "주몽(동명성왕)",
+      "온조",
+      "박혁거세",
+      "왕건"
+    ],
+    "answerIndex": 0,
+    "explanation": "주몽(동명성왕)이 기원전 37년 고구려를 세웠다고 전해집니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0006",
+    "category": "history",
+    "difficulty": 1,
+    "question": "제2차 세계대전이 끝난 해는?",
+    "choices": [
+      "1918년",
+      "1939년",
+      "1945년",
+      "1953년"
+    ],
+    "answerIndex": 2,
+    "explanation": "1945년 독일(5월)과 일본(8월~9월)이 항복하며 전쟁이 끝났습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0007",
+    "category": "history",
+    "difficulty": 1,
+    "question": "고려를 건국한 인물은?",
+    "choices": [
+      "궁예",
+      "견훤",
+      "이성계",
+      "왕건"
+    ],
+    "answerIndex": 3,
+    "explanation": "왕건이 918년 고려를 세웠습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0008",
+    "category": "history",
+    "difficulty": 1,
+    "question": "6·25 전쟁이 일어난 해는?",
+    "choices": [
+      "1945년",
+      "1948년",
+      "1950년",
+      "1953년"
+    ],
+    "answerIndex": 2,
+    "explanation": "6·25 전쟁은 1950년 6월 25일에 시작되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0009",
+    "category": "history",
+    "difficulty": 1,
+    "question": "물가가 지속적으로 오르는 현상을 무엇이라 할까?",
+    "choices": [
+      "디플레이션",
+      "인플레이션",
+      "리세션",
+      "디노미네이션"
+    ],
+    "answerIndex": 1,
+    "explanation": "인플레이션은 물가가 지속적으로 상승하고 화폐 가치가 떨어지는 현상입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0010",
+    "category": "history",
+    "difficulty": 1,
+    "question": "삼권분립에서 법률을 만드는 기관은?",
+    "choices": [
+      "법원",
+      "국회",
+      "정부",
+      "헌법재판소"
+    ],
+    "answerIndex": 1,
+    "explanation": "입법권은 국회가 가집니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0011",
+    "category": "history",
+    "difficulty": 2,
+    "question": "프랑스 혁명이 시작된 해는?",
+    "choices": [
+      "1689년",
+      "1789년",
+      "1815년",
+      "1848년"
+    ],
+    "answerIndex": 1,
+    "explanation": "1789년 바스티유 감옥 습격으로 프랑스 혁명이 본격화되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0012",
+    "category": "history",
+    "difficulty": 2,
+    "question": "서희가 거란과의 외교 담판으로 확보한 지역은?",
+    "choices": [
+      "강동 6주",
+      "4군 6진",
+      "동북 9성",
+      "쌍성총관부"
+    ],
+    "answerIndex": 0,
+    "explanation": "993년 서희는 소손녕과 담판해 강동 6주를 얻었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0013",
+    "category": "history",
+    "difficulty": 2,
+    "question": "4군 6진을 개척한 조선의 왕은?",
+    "choices": [
+      "태종",
+      "세종",
+      "성종",
+      "중종"
+    ],
+    "answerIndex": 1,
+    "explanation": "세종 때 압록강과 두만강 유역에 4군과 6진을 설치했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0014",
+    "category": "history",
+    "difficulty": 2,
+    "question": "정조 때 건설된 계획 도시 성곽은?",
+    "choices": [
+      "수원 화성",
+      "남한산성",
+      "행주산성",
+      "금성산성"
+    ],
+    "answerIndex": 0,
+    "explanation": "정조는 1794~1796년 수원 화성을 쌓았습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0015",
+    "category": "history",
+    "difficulty": 2,
+    "question": "동학 농민 운동이 일어난 해는?",
+    "choices": [
+      "1876년",
+      "1894년",
+      "1905년",
+      "1919년"
+    ],
+    "answerIndex": 1,
+    "explanation": "동학 농민 운동은 1894년에 일어났습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0016",
+    "category": "history",
+    "difficulty": 2,
+    "question": "경술국치(한일 병합)가 일어난 해는?",
+    "choices": [
+      "1895년",
+      "1905년",
+      "1910년",
+      "1919년"
+    ],
+    "answerIndex": 2,
+    "explanation": "1910년 대한제국은 일본에 강제 병합되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0017",
+    "category": "history",
+    "difficulty": 2,
+    "question": "콜럼버스가 아메리카 대륙 부근에 도달한 해는?",
+    "choices": [
+      "1453년",
+      "1492년",
+      "1517년",
+      "1588년"
+    ],
+    "answerIndex": 1,
+    "explanation": "콜럼버스는 1492년 서인도 제도에 도착했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0018",
+    "category": "history",
+    "difficulty": 2,
+    "question": "로마 제국의 초대 황제는?",
+    "choices": [
+      "카이사르",
+      "아우구스투스",
+      "네로",
+      "콘스탄티누스"
+    ],
+    "answerIndex": 1,
+    "explanation": "옥타비아누스는 기원전 27년 아우구스투스 칭호를 받으며 초대 황제가 되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0019",
+    "category": "history",
+    "difficulty": 2,
+    "question": "미국 독립 선언서가 발표된 해는?",
+    "choices": [
+      "1607년",
+      "1776년",
+      "1789년",
+      "1861년"
+    ],
+    "answerIndex": 1,
+    "explanation": "1776년 7월 4일 독립 선언서가 채택되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0020",
+    "category": "history",
+    "difficulty": 2,
+    "question": "제1차 세계대전의 직접적인 계기가 된 사건은?",
+    "choices": [
+      "사라예보 사건",
+      "진주만 공습",
+      "러시아 혁명",
+      "베르사유 조약"
+    ],
+    "answerIndex": 0,
+    "explanation": "1914년 오스트리아 황태자 부부가 사라예보에서 암살되며 전쟁이 시작되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0021",
+    "category": "history",
+    "difficulty": 2,
+    "question": "베를린 장벽이 무너진 해는?",
+    "choices": [
+      "1961년",
+      "1975년",
+      "1989년",
+      "1991년"
+    ],
+    "answerIndex": 2,
+    "explanation": "1989년 11월 베를린 장벽이 개방되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0022",
+    "category": "history",
+    "difficulty": 2,
+    "question": "한 나라 안에서 일정 기간 생산된 재화와 서비스의 최종 가치 합계를 나타내는 지표는?",
+    "choices": [
+      "GDP",
+      "CPI",
+      "IMF",
+      "WTO"
+    ],
+    "answerIndex": 0,
+    "explanation": "GDP(국내총생산)는 한 나라의 경제 규모를 나타내는 대표 지표입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0023",
+    "category": "history",
+    "difficulty": 2,
+    "question": "7월 17일에 기념하는 국경일은?",
+    "choices": [
+      "개천절",
+      "제헌절",
+      "한글날",
+      "광복절"
+    ],
+    "answerIndex": 1,
+    "explanation": "제헌절은 1948년 헌법 공포를 기념하는 국경일입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0024",
+    "category": "history",
+    "difficulty": 2,
+    "question": "팔만대장경판이 보관된 사찰은?",
+    "choices": [
+      "해인사",
+      "불국사",
+      "통도사",
+      "송광사"
+    ],
+    "answerIndex": 0,
+    "explanation": "합천 해인사 장경판전에 팔만대장경판이 보관되어 있습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0025",
+    "category": "history",
+    "difficulty": 3,
+    "question": "대동법이 처음 시행된 왕은?",
+    "choices": [
+      "광해군",
+      "효종",
+      "숙종",
+      "영조"
+    ],
+    "answerIndex": 0,
+    "explanation": "대동법은 1608년 광해군 때 경기도에서 처음 시행되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0026",
+    "category": "history",
+    "difficulty": 3,
+    "question": "병자호란 때 인조가 청 태종에게 삼배구고두례를 한 장소는?",
+    "choices": [
+      "삼전도",
+      "남한산성",
+      "강화도",
+      "행주산성"
+    ],
+    "answerIndex": 0,
+    "explanation": "1637년 인조는 삼전도에서 항복의 예를 올렸습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0027",
+    "category": "history",
+    "difficulty": 3,
+    "question": "흥선대원군이 경복궁 중건 비용을 마련하려고 발행한 화폐는?",
+    "choices": [
+      "당백전",
+      "상평통보",
+      "건원중보",
+      "백동화"
+    ],
+    "answerIndex": 0,
+    "explanation": "1866년 발행한 당백전은 물가 상승을 불러왔습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0028",
+    "category": "history",
+    "difficulty": 3,
+    "question": "영국에서 명예혁명이 일어난 해는?",
+    "choices": [
+      "1642년",
+      "1688년",
+      "1707년",
+      "1776년"
+    ],
+    "answerIndex": 1,
+    "explanation": "1688년 명예혁명으로 제임스 2세가 물러났습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0029",
+    "category": "history",
+    "difficulty": 3,
+    "question": "연합군의 노르망디 상륙 작전이 있었던 해는?",
+    "choices": [
+      "1942년",
+      "1943년",
+      "1944년",
+      "1945년"
+    ],
+    "answerIndex": 2,
+    "explanation": "1944년 6월 6일 노르망디 상륙 작전이 개시되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_history_0030",
+    "category": "history",
+    "difficulty": 3,
+    "question": "1095년 클레르몽 공의회에서 십자군 원정을 호소한 교황은?",
+    "choices": [
+      "우르바노 2세",
+      "그레고리오 7세",
+      "인노첸시오 3세",
+      "레오 10세"
+    ],
+    "answerIndex": 0,
+    "explanation": "우르바노 2세의 호소로 제1차 십자군이 시작되었습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0001",
+    "category": "science",
+    "difficulty": 1,
+    "question": "물의 화학식은?",
+    "choices": [
+      "CO₂",
+      "H₂O",
+      "O₂",
+      "NaCl"
+    ],
+    "answerIndex": 1,
+    "explanation": "물은 수소 2개와 산소 1개로 이루어져 있습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0002",
+    "category": "science",
+    "difficulty": 1,
+    "question": "태양계에서 가장 큰 행성은?",
+    "choices": [
+      "토성",
+      "목성",
+      "천왕성",
+      "지구"
+    ],
+    "answerIndex": 1,
+    "explanation": "목성은 태양계에서 가장 큰 행성입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0003",
+    "category": "science",
+    "difficulty": 1,
+    "question": "지구가 태양을 한 바퀴 도는 데 걸리는 시간은?",
+    "choices": [
+      "약 1일",
+      "약 30일",
+      "약 1년",
+      "약 10년"
+    ],
+    "answerIndex": 2,
+    "explanation": "지구의 공전 주기는 약 365일입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0004",
+    "category": "science",
+    "difficulty": 1,
+    "question": "식물이 광합성을 할 때 흡수하는 기체는?",
+    "choices": [
+      "산소",
+      "질소",
+      "이산화탄소",
+      "헬륨"
+    ],
+    "answerIndex": 2,
+    "explanation": "식물은 이산화탄소와 물로 포도당을 만들고 산소를 내보냅니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0005",
+    "category": "science",
+    "difficulty": 1,
+    "question": "빛의 삼원색은?",
+    "choices": [
+      "빨강·노랑·파랑",
+      "빨강·초록·파랑",
+      "청록·자홍·노랑",
+      "검정·하양·회색"
+    ],
+    "answerIndex": 1,
+    "explanation": "빛의 삼원색은 빨강, 초록, 파랑입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0006",
+    "category": "science",
+    "difficulty": 1,
+    "question": "지구에서 가장 가까운 항성은?",
+    "choices": [
+      "시리우스",
+      "태양",
+      "프록시마 센타우리",
+      "베가"
+    ],
+    "answerIndex": 1,
+    "explanation": "태양은 약 1억 5천만 km 거리의 가장 가까운 항성입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0007",
+    "category": "science",
+    "difficulty": 1,
+    "question": "표준 대기압에서 물이 어는 온도는?",
+    "choices": [
+      "-10℃",
+      "0℃",
+      "4℃",
+      "100℃"
+    ],
+    "answerIndex": 1,
+    "explanation": "물의 어는점은 0℃입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0008",
+    "category": "science",
+    "difficulty": 1,
+    "question": "만유인력의 법칙을 정리한 과학자는?",
+    "choices": [
+      "갈릴레이",
+      "뉴턴",
+      "아인슈타인",
+      "패러데이"
+    ],
+    "answerIndex": 1,
+    "explanation": "뉴턴은 『프린키피아』에서 만유인력의 법칙을 발표했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0009",
+    "category": "science",
+    "difficulty": 1,
+    "question": "가장 가벼운 원소는?",
+    "choices": [
+      "헬륨",
+      "수소",
+      "리튬",
+      "산소"
+    ],
+    "answerIndex": 1,
+    "explanation": "수소는 원자 번호 1번의 가장 가벼운 원소입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0010",
+    "category": "science",
+    "difficulty": 1,
+    "question": "곤충의 다리는 모두 몇 개일까?",
+    "choices": [
+      "4개",
+      "6개",
+      "8개",
+      "10개"
+    ],
+    "answerIndex": 1,
+    "explanation": "곤충은 가슴에 세 쌍, 즉 6개의 다리가 있습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0011",
+    "category": "science",
+    "difficulty": 2,
+    "question": "사람의 심장은 몇 개의 방(심방·심실)으로 이루어져 있을까?",
+    "choices": [
+      "2개",
+      "3개",
+      "4개",
+      "6개"
+    ],
+    "answerIndex": 2,
+    "explanation": "우심방, 우심실, 좌심방, 좌심실 4개입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0012",
+    "category": "science",
+    "difficulty": 2,
+    "question": "소리가 전달되지 못하는 곳은?",
+    "choices": [
+      "물속",
+      "공기 중",
+      "진공",
+      "철 막대 속"
+    ],
+    "answerIndex": 2,
+    "explanation": "소리는 매질이 있어야 전달되므로 진공에서는 전달되지 않습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0013",
+    "category": "science",
+    "difficulty": 2,
+    "question": "공기 중에서 가장 많은 비율을 차지하는 기체는?",
+    "choices": [
+      "산소",
+      "질소",
+      "아르곤",
+      "이산화탄소"
+    ],
+    "answerIndex": 1,
+    "explanation": "질소가 약 78%를 차지합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0014",
+    "category": "science",
+    "difficulty": 2,
+    "question": "원소 기호 Au가 나타내는 금속은?",
+    "choices": [
+      "은",
+      "금",
+      "알루미늄",
+      "구리"
+    ],
+    "answerIndex": 1,
+    "explanation": "Au는 라틴어 aurum에서 온 금의 기호입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0015",
+    "category": "science",
+    "difficulty": 2,
+    "question": "혈액에서 산소를 운반하는 적혈구 속 단백질은?",
+    "choices": [
+      "인슐린",
+      "헤모글로빈",
+      "콜라겐",
+      "케라틴"
+    ],
+    "answerIndex": 1,
+    "explanation": "헤모글로빈이 산소와 결합해 온몸으로 운반합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0016",
+    "category": "science",
+    "difficulty": 2,
+    "question": "1953년 DNA 이중나선 구조를 제안한 두 학자는?",
+    "choices": [
+      "멘델과 다윈",
+      "왓슨과 크릭",
+      "뉴턴과 갈릴레이",
+      "파스퇴르와 코흐"
+    ],
+    "answerIndex": 1,
+    "explanation": "왓슨과 크릭이 DNA의 이중나선 모형을 제안했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0017",
+    "category": "science",
+    "difficulty": 2,
+    "question": "pH가 7인 용액의 성질은?",
+    "choices": [
+      "강산성",
+      "약염기성",
+      "중성",
+      "강염기성"
+    ],
+    "answerIndex": 2,
+    "explanation": "pH 7은 산성도 염기성도 아닌 중성입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0018",
+    "category": "science",
+    "difficulty": 2,
+    "question": "오존층이 주로 막아 주는 것은?",
+    "choices": [
+      "적외선",
+      "자외선",
+      "가시광선",
+      "전파"
+    ],
+    "answerIndex": 1,
+    "explanation": "오존층은 태양의 해로운 자외선을 흡수합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0019",
+    "category": "science",
+    "difficulty": 2,
+    "question": "컴퓨터에서 1바이트는 몇 비트일까?",
+    "choices": [
+      "4비트",
+      "8비트",
+      "16비트",
+      "32비트"
+    ],
+    "answerIndex": 1,
+    "explanation": "1바이트는 8비트입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0020",
+    "category": "science",
+    "difficulty": 2,
+    "question": "컴퓨터의 CPU를 우리말로 하면?",
+    "choices": [
+      "중앙처리장치",
+      "주기억장치",
+      "그래픽처리장치",
+      "보조저장장치"
+    ],
+    "answerIndex": 0,
+    "explanation": "CPU는 Central Processing Unit, 중앙처리장치입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0021",
+    "category": "science",
+    "difficulty": 2,
+    "question": "달이 차고 이지러지는 주기(삭망월)는 약 며칠일까?",
+    "choices": [
+      "약 7일",
+      "약 15일",
+      "약 29.5일",
+      "약 365일"
+    ],
+    "answerIndex": 2,
+    "explanation": "달의 위상이 한 바퀴 바뀌는 데 약 29.5일이 걸립니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0022",
+    "category": "science",
+    "difficulty": 2,
+    "question": "다이아몬드와 흑연의 공통 구성 원소는?",
+    "choices": [
+      "규소",
+      "탄소",
+      "질소",
+      "수소"
+    ],
+    "answerIndex": 1,
+    "explanation": "둘 다 탄소로 이루어져 있고 결합 구조만 다릅니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0023",
+    "category": "science",
+    "difficulty": 2,
+    "question": "전류의 세기를 나타내는 단위는?",
+    "choices": [
+      "볼트",
+      "와트",
+      "암페어",
+      "옴"
+    ],
+    "answerIndex": 2,
+    "explanation": "전류의 단위는 암페어(A)입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0024",
+    "category": "science",
+    "difficulty": 2,
+    "question": "식물 세포에서 광합성이 일어나는 소기관은?",
+    "choices": [
+      "미토콘드리아",
+      "엽록체",
+      "리보솜",
+      "핵"
+    ],
+    "answerIndex": 1,
+    "explanation": "엽록체의 엽록소가 빛에너지를 흡수합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0025",
+    "category": "science",
+    "difficulty": 3,
+    "question": "1928년 페니실린을 발견한 학자는?",
+    "choices": [
+      "파스퇴르",
+      "플레밍",
+      "코흐",
+      "제너"
+    ],
+    "answerIndex": 1,
+    "explanation": "알렉산더 플레밍이 푸른곰팡이에서 페니실린을 발견했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0026",
+    "category": "science",
+    "difficulty": 3,
+    "question": "일반적인 실온(약 20℃)에서 액체 상태인 금속은?",
+    "choices": [
+      "납",
+      "수은",
+      "주석",
+      "아연"
+    ],
+    "answerIndex": 1,
+    "explanation": "수은의 녹는점은 약 -39℃입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0027",
+    "category": "science",
+    "difficulty": 3,
+    "question": "도메인 이름을 IP 주소로 바꿔 주는 시스템은?",
+    "choices": [
+      "DHCP",
+      "DNS",
+      "HTTP",
+      "FTP"
+    ],
+    "answerIndex": 1,
+    "explanation": "DNS는 이름을 IP 주소로 변환하는 인터넷의 전화번호부 같은 시스템입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0028",
+    "category": "science",
+    "difficulty": 3,
+    "question": "지구 자전축의 기울기는 약 몇 도일까?",
+    "choices": [
+      "약 5도",
+      "약 23.5도",
+      "약 45도",
+      "약 66.5도"
+    ],
+    "answerIndex": 1,
+    "explanation": "자전축이 공전 궤도면의 수직선에 대해 약 23.5도 기울어 계절이 생깁니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0029",
+    "category": "science",
+    "difficulty": 3,
+    "question": "태양계에서 가장 큰 위성은?",
+    "choices": [
+      "달",
+      "가니메데",
+      "타이탄",
+      "트리톤"
+    ],
+    "answerIndex": 1,
+    "explanation": "목성의 위성 가니메데가 태양계에서 가장 큰 위성입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_science_0030",
+    "category": "science",
+    "difficulty": 3,
+    "question": "비타민 C가 부족하면 걸리기 쉬운 병은?",
+    "choices": [
+      "각기병",
+      "괴혈병",
+      "구루병",
+      "야맹증"
+    ],
+    "answerIndex": 1,
+    "explanation": "비타민 C 결핍은 괴혈병을 일으킵니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0001",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "올림픽은 몇 년마다 열릴까?",
+    "choices": [
+      "2년",
+      "3년",
+      "4년",
+      "5년"
+    ],
+    "answerIndex": 2,
+    "explanation": "하계·동계 올림픽은 각각 4년마다 열립니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0002",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "축구에서 한 팀이 경기장에서 뛰는 선수는 골키퍼 포함 몇 명일까?",
+    "choices": [
+      "9명",
+      "10명",
+      "11명",
+      "12명"
+    ],
+    "answerIndex": 2,
+    "explanation": "한 팀 11명이 경기합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0003",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "「모나리자」를 그린 화가는?",
+    "choices": [
+      "미켈란젤로",
+      "레오나르도 다 빈치",
+      "라파엘로",
+      "피카소"
+    ],
+    "answerIndex": 1,
+    "explanation": "레오나르도 다 빈치가 16세기 초에 그렸습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0004",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "야구에서 한 팀의 공격은 아웃 몇 개로 끝날까?",
+    "choices": [
+      "2개",
+      "3개",
+      "4개",
+      "5개"
+    ],
+    "answerIndex": 1,
+    "explanation": "3아웃이면 공수가 교대됩니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0005",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "한글날은 몇 월 며칠일까?",
+    "choices": [
+      "10월 3일",
+      "10월 9일",
+      "10월 15일",
+      "11월 9일"
+    ],
+    "answerIndex": 1,
+    "explanation": "훈민정음 반포를 기념하는 10월 9일입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0006",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "한국과 일본이 공동 개최한 FIFA 월드컵의 연도는?",
+    "choices": [
+      "1998년",
+      "2002년",
+      "2006년",
+      "2010년"
+    ],
+    "answerIndex": 1,
+    "explanation": "2002년 한일 월드컵이 열렸습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0007",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "『해리 포터』 시리즈의 작가는?",
+    "choices": [
+      "J.R.R. 톨킨",
+      "J.K. 롤링",
+      "C.S. 루이스",
+      "로알드 달"
+    ],
+    "answerIndex": 1,
+    "explanation": "J.K. 롤링이 쓴 판타지 소설입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0008",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "그리스 신화에서 올림포스 신들의 최고신은?",
+    "choices": [
+      "아폴론",
+      "제우스",
+      "포세이돈",
+      "헤르메스"
+    ],
+    "answerIndex": 1,
+    "explanation": "제우스는 하늘과 천둥의 신이자 신들의 왕입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0009",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "올림픽 상징 오륜기의 고리는 몇 개일까?",
+    "choices": [
+      "4개",
+      "5개",
+      "6개",
+      "7개"
+    ],
+    "answerIndex": 1,
+    "explanation": "다섯 개의 고리는 다섯 대륙을 상징합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0010",
+    "category": "culture",
+    "difficulty": 1,
+    "question": "「생각하는 사람」을 만든 조각가는?",
+    "choices": [
+      "로댕",
+      "부르델",
+      "마이욜",
+      "브란쿠시"
+    ],
+    "answerIndex": 0,
+    "explanation": "오귀스트 로댕의 대표작입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0011",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "『데미안』의 작가는?",
+    "choices": [
+      "카프카",
+      "토마스 만",
+      "헤르만 헤세",
+      "괴테"
+    ],
+    "answerIndex": 2,
+    "explanation": "1919년 발표된 헤르만 헤세의 성장 소설입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0012",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "교향곡 제9번 「합창」을 작곡한 사람은?",
+    "choices": [
+      "모차르트",
+      "바흐",
+      "베토벤",
+      "쇼팽"
+    ],
+    "answerIndex": 2,
+    "explanation": "베토벤의 마지막 교향곡으로 「환희의 송가」가 쓰였습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0013",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "셰익스피어의 4대 비극에 들지 않는 작품은?",
+    "choices": [
+      "햄릿",
+      "맥베스",
+      "리어 왕",
+      "로미오와 줄리엣"
+    ],
+    "answerIndex": 3,
+    "explanation": "4대 비극은 『햄릿』, 『오셀로』, 『리어 왕』, 『맥베스』입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0014",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "표준 피아노의 건반 수는?",
+    "choices": [
+      "64개",
+      "76개",
+      "88개",
+      "100개"
+    ],
+    "answerIndex": 2,
+    "explanation": "표준 피아노는 흰 건반 52개와 검은 건반 36개로 모두 88개입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0015",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "마라톤의 공식 거리는?",
+    "choices": [
+      "21.0975km",
+      "36.5km",
+      "42.195km",
+      "50km"
+    ],
+    "answerIndex": 2,
+    "explanation": "마라톤은 42.195km입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0016",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "『어린 왕자』의 작가는?",
+    "choices": [
+      "빅토르 위고",
+      "생텍쥐페리",
+      "알베르 카뮈",
+      "쥘 베른"
+    ],
+    "answerIndex": 1,
+    "explanation": "프랑스 작가 앙투안 드 생텍쥐페리가 1943년 발표했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0017",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "다음 중 피카소의 작품은?",
+    "choices": [
+      "게르니카",
+      "별이 빛나는 밤",
+      "절규",
+      "키스"
+    ],
+    "answerIndex": 0,
+    "explanation": "「게르니카」는 1937년 스페인 내전의 비극을 그린 작품입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0018",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "「별이 빛나는 밤」을 그린 화가는?",
+    "choices": [
+      "모네",
+      "반 고흐",
+      "마네",
+      "세잔"
+    ],
+    "answerIndex": 1,
+    "explanation": "빈센트 반 고흐가 1889년 그렸습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0019",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "영화 「기생충」이 아카데미 작품상을 받은 해는?",
+    "choices": [
+      "2018년",
+      "2019년",
+      "2020년",
+      "2021년"
+    ],
+    "answerIndex": 2,
+    "explanation": "2020년 2월 제92회 시상식에서 작품상을 받았습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0020",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "테니스 4대 메이저 대회가 아닌 것은?",
+    "choices": [
+      "윔블던",
+      "US 오픈",
+      "프랑스 오픈",
+      "FA컵"
+    ],
+    "answerIndex": 3,
+    "explanation": "FA컵은 잉글랜드 축구 대회입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0021",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "바이올린의 현은 모두 몇 줄일까?",
+    "choices": [
+      "3줄",
+      "4줄",
+      "5줄",
+      "6줄"
+    ],
+    "answerIndex": 1,
+    "explanation": "바이올린은 G·D·A·E의 4현입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0022",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "발레 「백조의 호수」를 작곡한 사람은?",
+    "choices": [
+      "차이콥스키",
+      "스트라빈스키",
+      "라벨",
+      "드뷔시"
+    ],
+    "answerIndex": 0,
+    "explanation": "표트르 차이콥스키의 3대 발레 음악 중 하나입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0023",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "『죄와 벌』의 작가는?",
+    "choices": [
+      "톨스토이",
+      "도스토옙스키",
+      "투르게네프",
+      "체호프"
+    ],
+    "answerIndex": 1,
+    "explanation": "표도르 도스토옙스키가 1866년 발표했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0024",
+    "category": "culture",
+    "difficulty": 2,
+    "question": "「서시」가 수록된 윤동주의 시집은?",
+    "choices": [
+      "진달래꽃",
+      "하늘과 바람과 별과 시",
+      "님의 침묵",
+      "향수"
+    ],
+    "answerIndex": 1,
+    "explanation": "윤동주의 유고 시집입니다. 『진달래꽃』은 김소월, 『님의 침묵』은 한용운의 시집입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0025",
+    "category": "culture",
+    "difficulty": 3,
+    "question": "판소리에서 북으로 장단을 맞추는 사람을 무엇이라 할까?",
+    "choices": [
+      "고수",
+      "소리꾼",
+      "사물",
+      "악사"
+    ],
+    "answerIndex": 0,
+    "explanation": "소리꾼은 노래하고 고수는 북으로 장단과 추임새를 넣습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0026",
+    "category": "culture",
+    "difficulty": 3,
+    "question": "근대 올림픽이 처음 열린 해는?",
+    "choices": [
+      "1896년",
+      "1900년",
+      "1912년",
+      "1924년"
+    ],
+    "answerIndex": 0,
+    "explanation": "1896년 아테네에서 제1회 대회가 열렸습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0027",
+    "category": "culture",
+    "difficulty": 3,
+    "question": "『돈키호테』의 작가는?",
+    "choices": [
+      "세르반테스",
+      "단테",
+      "보카치오",
+      "괴테"
+    ],
+    "answerIndex": 0,
+    "explanation": "스페인의 미겔 데 세르반테스가 썼습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0028",
+    "category": "culture",
+    "difficulty": 3,
+    "question": "오페라 「카르멘」을 작곡한 사람은?",
+    "choices": [
+      "베르디",
+      "푸치니",
+      "비제",
+      "로시니"
+    ],
+    "answerIndex": 2,
+    "explanation": "프랑스의 조르주 비제가 1875년 발표했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0029",
+    "category": "culture",
+    "difficulty": 3,
+    "question": "바티칸 시스티나 성당의 천장화를 그린 화가는?",
+    "choices": [
+      "라파엘로",
+      "보티첼리",
+      "미켈란젤로",
+      "티치아노"
+    ],
+    "answerIndex": 2,
+    "explanation": "미켈란젤로가 1508~1512년 천장화를 그렸습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_culture_0030",
+    "category": "culture",
+    "difficulty": 3,
+    "question": "대하소설 『토지』의 작가는?",
+    "choices": [
+      "박경리",
+      "박완서",
+      "황순원",
+      "김유정"
+    ],
+    "answerIndex": 0,
+    "explanation": "박경리가 25년에 걸쳐 완성한 대하소설입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0001",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "세계에서 가장 큰 대륙은?",
+    "choices": [
+      "아프리카",
+      "아시아",
+      "북아메리카",
+      "유럽"
+    ],
+    "answerIndex": 1,
+    "explanation": "아시아는 육지 면적의 약 30%를 차지합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0002",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "아마존강이 흐르는 대륙은?",
+    "choices": [
+      "아프리카",
+      "남아메리카",
+      "아시아",
+      "오세아니아"
+    ],
+    "answerIndex": 1,
+    "explanation": "아마존강은 남아메리카를 가로지릅니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0003",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "프랑스의 수도는?",
+    "choices": [
+      "런던",
+      "파리",
+      "로마",
+      "마드리드"
+    ],
+    "answerIndex": 1,
+    "explanation": "파리는 센강변에 있는 프랑스의 수도입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0004",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "일본의 수도는?",
+    "choices": [
+      "오사카",
+      "교토",
+      "도쿄",
+      "나고야"
+    ],
+    "answerIndex": 2,
+    "explanation": "도쿄가 일본의 수도입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0005",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "대한민국에서 가장 큰 섬은?",
+    "choices": [
+      "거제도",
+      "제주도",
+      "강화도",
+      "울릉도"
+    ],
+    "answerIndex": 1,
+    "explanation": "제주도의 면적은 약 1,850㎢입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0006",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "해발 고도 기준으로 세계에서 가장 높은 산은?",
+    "choices": [
+      "K2",
+      "에베레스트",
+      "킬리만자로",
+      "몽블랑"
+    ],
+    "answerIndex": 1,
+    "explanation": "에베레스트산은 해발 약 8,849m입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0007",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "면적이 가장 넓은 나라는?",
+    "choices": [
+      "캐나다",
+      "중국",
+      "러시아",
+      "미국"
+    ],
+    "answerIndex": 2,
+    "explanation": "러시아는 면적이 약 1,710만 ㎢로 가장 넓습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0008",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "세계에서 가장 큰 바다(대양)는?",
+    "choices": [
+      "대서양",
+      "인도양",
+      "태평양",
+      "북극해"
+    ],
+    "answerIndex": 2,
+    "explanation": "태평양은 지구 표면의 약 3분의 1을 차지합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0009",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "1시간은 몇 초일까?",
+    "choices": [
+      "360초",
+      "1,800초",
+      "3,600초",
+      "6,000초"
+    ],
+    "answerIndex": 2,
+    "explanation": "60분 × 60초 = 3,600초입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0010",
+    "category": "geo",
+    "difficulty": 1,
+    "question": "대한민국에서 화재·구급 신고 전화번호는?",
+    "choices": [
+      "112",
+      "114",
+      "119",
+      "911"
+    ],
+    "answerIndex": 2,
+    "explanation": "119는 소방·구급, 112는 경찰 신고번호입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0011",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "지구 표면에서 바다가 차지하는 비율은 약 얼마일까?",
+    "choices": [
+      "약 30%",
+      "약 50%",
+      "약 70%",
+      "약 90%"
+    ],
+    "answerIndex": 2,
+    "explanation": "바다는 지구 표면의 약 71%를 차지합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0012",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "오스트레일리아의 수도는?",
+    "choices": [
+      "시드니",
+      "멜버른",
+      "캔버라",
+      "브리즈번"
+    ],
+    "answerIndex": 2,
+    "explanation": "시드니가 최대 도시지만 수도는 캔버라입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0013",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "캐나다의 수도는?",
+    "choices": [
+      "토론토",
+      "오타와",
+      "밴쿠버",
+      "몬트리올"
+    ],
+    "answerIndex": 1,
+    "explanation": "오타와가 캐나다의 수도입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0014",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "브라질의 수도는?",
+    "choices": [
+      "리우데자네이루",
+      "상파울루",
+      "브라질리아",
+      "살바도르"
+    ],
+    "answerIndex": 2,
+    "explanation": "1960년 계획 도시 브라질리아로 수도를 옮겼습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0015",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "세계에서 면적이 가장 작은 나라는?",
+    "choices": [
+      "모나코",
+      "몰디브",
+      "바티칸 시국",
+      "산마리노"
+    ],
+    "answerIndex": 2,
+    "explanation": "바티칸 시국의 면적은 약 0.44㎢입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0016",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "세계에서 가장 큰 열사막(뜨거운 사막)은?",
+    "choices": [
+      "고비 사막",
+      "사하라 사막",
+      "칼라하리 사막",
+      "아라비아 사막"
+    ],
+    "answerIndex": 1,
+    "explanation": "사하라 사막은 아프리카 북부에 걸쳐 있습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0017",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "고대 이집트 문명이 발달한 강은?",
+    "choices": [
+      "티그리스강",
+      "나일강",
+      "갠지스강",
+      "양쯔강"
+    ],
+    "answerIndex": 1,
+    "explanation": "이집트 문명은 나일강 유역에서 발달했습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0018",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "남한에서 가장 높은 산은?",
+    "choices": [
+      "지리산",
+      "설악산",
+      "한라산",
+      "태백산"
+    ],
+    "answerIndex": 2,
+    "explanation": "한라산은 해발 1,947m입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0019",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "다음 중 대한민국의 광역시가 아닌 곳은?",
+    "choices": [
+      "부산",
+      "대구",
+      "수원",
+      "인천"
+    ],
+    "answerIndex": 2,
+    "explanation": "수원은 경기도의 도시입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0020",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "북반구에서 1년 중 낮이 가장 긴 절기는?",
+    "choices": [
+      "동지",
+      "하지",
+      "춘분",
+      "추분"
+    ],
+    "answerIndex": 1,
+    "explanation": "하지는 6월 하순경으로 낮이 가장 깁니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0021",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "낙동강이 흘러드는 바다는?",
+    "choices": [
+      "동해",
+      "서해",
+      "남해",
+      "발해"
+    ],
+    "answerIndex": 2,
+    "explanation": "낙동강은 부산 남쪽 남해로 흘러듭니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0022",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "스페인의 수도는?",
+    "choices": [
+      "바르셀로나",
+      "마드리드",
+      "세비야",
+      "발렌시아"
+    ],
+    "answerIndex": 1,
+    "explanation": "마드리드가 스페인의 수도입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0023",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "이집트의 수도는?",
+    "choices": [
+      "알렉산드리아",
+      "카이로",
+      "룩소르",
+      "기자"
+    ],
+    "answerIndex": 1,
+    "explanation": "카이로는 나일강 하류에 있습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0024",
+    "category": "geo",
+    "difficulty": 2,
+    "question": "다음 중 콩을 발효시킨 장류가 아닌 것은?",
+    "choices": [
+      "된장",
+      "간장",
+      "청국장",
+      "참기름"
+    ],
+    "answerIndex": 3,
+    "explanation": "참기름은 참깨를 짜서 얻은 기름입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0025",
+    "category": "geo",
+    "difficulty": 3,
+    "question": "본초 자오선(경도 0도)이 지나는 영국 런던의 지역은?",
+    "choices": [
+      "그리니치",
+      "켄싱턴",
+      "웨스트민스터",
+      "캠던"
+    ],
+    "answerIndex": 0,
+    "explanation": "그리니치 천문대를 지나는 선이 경도 0도입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0026",
+    "category": "geo",
+    "difficulty": 3,
+    "question": "국명이 '적도'를 뜻하는 에스파냐어에서 유래한 남아메리카 나라는?",
+    "choices": [
+      "콜롬비아",
+      "에콰도르",
+      "페루",
+      "칠레"
+    ],
+    "answerIndex": 1,
+    "explanation": "에콰도르(Ecuador)는 에스파냐어로 '적도'를 뜻합니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0027",
+    "category": "geo",
+    "difficulty": 3,
+    "question": "스위스의 수도는?",
+    "choices": [
+      "취리히",
+      "제네바",
+      "베른",
+      "바젤"
+    ],
+    "answerIndex": 2,
+    "explanation": "취리히가 가장 큰 도시지만 수도는 베른입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0028",
+    "category": "geo",
+    "difficulty": 3,
+    "question": "이스탄불은 어느 두 대륙에 걸쳐 있는 도시일까?",
+    "choices": [
+      "유럽과 아시아",
+      "아시아와 아프리카",
+      "유럽과 아프리카",
+      "아시아와 오세아니아"
+    ],
+    "answerIndex": 0,
+    "explanation": "보스포루스 해협을 사이에 두고 유럽과 아시아에 걸쳐 있습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0029",
+    "category": "geo",
+    "difficulty": 3,
+    "question": "세계에서 가장 깊은 해구는?",
+    "choices": [
+      "일본 해구",
+      "마리아나 해구",
+      "푸에르토리코 해구",
+      "페루-칠레 해구"
+    ],
+    "answerIndex": 1,
+    "explanation": "마리아나 해구의 챌린저 해연이 가장 깊습니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  },
+  {
+    "id": "q_geo_0030",
+    "category": "geo",
+    "difficulty": 3,
+    "question": "아프리카에서 가장 높은 산은?",
+    "choices": [
+      "케냐산",
+      "킬리만자로",
+      "엘곤산",
+      "루웬조리산"
+    ],
+    "answerIndex": 1,
+    "explanation": "탄자니아의 킬리만자로는 해발 약 5,895m입니다.",
+    "image": null,
+    "source": null,
+    "status": "published",
+    "createdAt": "2026-10-08",
+    "reviewedBy": null,
+    "reports": 0
+  }
+]
